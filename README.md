@@ -1,9 +1,9 @@
-Landslide exposure of building infrastructures in Portland, OR
+Landslide Exposure of Building Infrastructures in Portland, OR
 =======
 
-**Daniel Acosta**
-Final Project: UW Geospatial Data Analysis
-CEE498/CEWA599
+**Daniel Acosta** 
+Final Project: UW Geospatial Data Analysis 
+CEE498/CEWA599 
 Instructor: David Shean
 
 Overview
@@ -38,6 +38,6 @@ import matplotlib.pyplot as plt
 import rasterstats
 
 ## References
-William Pollock, Joseph Wartman, Grace Abou-Jaoude, Alex Grant, Risk at the margins: A natural hazards perspective on the Syrian refugee crisis in Lebanon, International Journal of Disaster Risk Reduction, Volume 36, 101037, ISSN 2212-4209, https://doi.org/10.1016/j.ijdrr.2018.11.026.
+W. Pollock, J. Wartman, G. Abou-Jaoude, A. Grant, (2019). Risk at the margins: A natural hazards perspective on the Syrian refugee crisis in Lebanon, International Journal of Disaster Risk Reduction, Volume 36, 101037, ISSN 2212-4209, https://doi.org/10.1016/j.ijdrr.2018.11.026.
 
 C. Promper, Ch. Gassner, T. Glade, (2015). Spatiotemporal patterns of landslide exposure – a step within future landslide risk analysis on a regional scale applied in Waidhofen/Ybbs Austria, International Journal of Disaster Risk Reduction, Volume 12,  Pages 25-33, ISSN 2212-4209, https://doi.org/10.1016/j.ijdrr.2014.11.003.
