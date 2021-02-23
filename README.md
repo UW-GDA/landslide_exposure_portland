@@ -1,10 +1,11 @@
 Landslide Exposure of Building Infrastructures in Portland, OR
 =======
 
-**Daniel Acosta** 
-Final Project: UW Geospatial Data Analysis 
-CEE498/CEWA599 
-Instructor: David Shean
+**Daniel Acosta**
+
+Final Project: UW Geospatial Data Analysis  
+CEE498/CEWA599  
+Instructor: David Shean  
 
 Overview
 -----------
