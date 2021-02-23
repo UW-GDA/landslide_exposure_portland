@@ -26,7 +26,7 @@ The dataset to be used are:
 
 The simple method to quantify landslide exposure is by overlapping the susceptibility map with the building footprint and measure how much raster area corresponds to each susceptibility class.
 
-**Tools packages (libraries):**
+**Tools packages (libraries):**  
 import os  
 import requests  
 import numpy as np  
